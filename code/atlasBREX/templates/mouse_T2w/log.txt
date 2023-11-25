@@ -1,0 +1,460 @@
+
+============
+> atlasBREX [1.5]
+============
+
+>> Fri Nov 24 09:35:36 CST 2023
+>> PID: 210938
+>> Processing:
+> (Temp.) rotating template to match MNI152 orientation 
+> (Temp.) rotating target volumes to match MNI152 orientation 
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz
+> Upscale factor estimation: 8
+> (Temp.) voxel dimension scaling /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz to 1.6 1.6 1.6 using factor 8
+> Provisional (BET) segmentation (0.5): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz
+> FLIRT linear 1-step registration: standard -> highres
+> Transformation and mask application: highres volume
+> Fri Nov 24 09:35:55 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz
+>>
+>>
+>>
+>> Summary:
+> /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/atlasBREX.sh -b /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w.nii.gz -nb /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/nb_mouse_T2w.nii.gz -h /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4.nii.gz -f 0.5
+> Fri Nov 24 09:35:36 CST 2023 
+> (Temp.) rotating template to match MNI152 orientation  
+> (Temp.) rotating target volumes to match MNI152 orientation  
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz 
+> Atlas binary mask : 0:00:00:0.6688 
+> Provisional BET : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_ : 0:00:00:3.2868 
+> Fri Nov 24 09:35:55 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz 
+> atlasBREX runtime: highres : 0:00:00:7.2495 
+> Total runtime : 0:00:00:18.9544 
+> Fri Nov 24 09:35:55 CST 2023 
+
+============
+> atlasBREX [1.5]
+============
+
+>> Fri Nov 24 09:37:19 CST 2023
+>> PID: 212517
+>> Processing:
+> (Temp.) rotating template to match MNI152 orientation 
+> (Temp.) rotating target volumes to match MNI152 orientation 
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz
+> Upscale factor estimation: 8
+> (Temp.) voxel dimension scaling /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz to 1.6 1.6 1.6 using factor 8
+> Provisional (BET) segmentation (0.5): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz
+> FLIRT linear 1-step registration: standard -> highres
+> Transformation and mask application: highres volume
+> Fri Nov 24 09:37:33 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz
+>>
+>>
+>>
+>> Summary:
+> /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/atlasBREX.sh -b /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w.nii.gz -nb /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/nb_mouse_T2w.nii.gz -h /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4.nii.gz -f 0.5
+> Fri Nov 24 09:37:19 CST 2023 
+> (Temp.) rotating template to match MNI152 orientation  
+> (Temp.) rotating target volumes to match MNI152 orientation  
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz 
+> Atlas binary mask : 0:00:00:0.2769 
+> Provisional BET : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_ : 0:00:00:2.7487 
+> Fri Nov 24 09:37:33 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz 
+> atlasBREX runtime: highres : 0:00:00:7.0339 
+> Total runtime : 0:00:00:13.7794 
+> Fri Nov 24 09:37:33 CST 2023 
+
+============
+> atlasBREX [1.5]
+============
+
+>> Fri Nov 24 09:38:37 CST 2023
+>> PID: 214011
+>> Processing:
+> (Temp.) rotating template to match MNI152 orientation 
+> (Temp.) rotating target volumes to match MNI152 orientation 
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz
+> FLIRT linear 1-step registration: standard -> highres
+
+============
+> atlasBREX [1.5]
+============
+
+>> Fri Nov 24 09:38:49 CST 2023
+>> PID: 214880
+>> Processing:
+> (Temp.) rotating template to match MNI152 orientation 
+> (Temp.) rotating target volumes to match MNI152 orientation 
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz
+> Upscale factor estimation: 8
+> (Temp.) voxel dimension scaling /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz to 1.6 1.6 1.6 using factor 8
+> Provisional (BET) segmentation (0.5): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz
+> FLIRT linear 1-step registration: standard -> highres
+> Transformation and mask application: highres volume
+> Fri Nov 24 09:39:03 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz
+>>
+>>
+>>
+>> Summary:
+> /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/atlasBREX.sh -b /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w.nii.gz -nb /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/nb_mouse_T2w.nii.gz -h /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4.nii.gz -f 0.5
+> Fri Nov 24 09:38:49 CST 2023 
+> (Temp.) rotating template to match MNI152 orientation  
+> (Temp.) rotating target volumes to match MNI152 orientation  
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz 
+> Atlas binary mask : 0:00:00:0.3418 
+> Provisional BET : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_ : 0:00:00:2.9651 
+> Fri Nov 24 09:39:03 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz 
+> atlasBREX runtime: highres : 0:00:00:6.7066 
+> Total runtime : 0:00:00:13.6558 
+> Fri Nov 24 09:39:03 CST 2023 
+
+============
+> atlasBREX [1.5]
+============
+
+>> Fri Nov 24 09:39:23 CST 2023
+>> PID: 216290
+>> Processing:
+> (Temp.) rotating template to match MNI152 orientation 
+> (Temp.) rotating target volumes to match MNI152 orientation 
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz
+> Upscale factor estimation: 8
+> (Temp.) voxel dimension scaling /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz to 1.6 1.6 1.6 using factor 8
+> Provisional (BET) segmentation (0.5): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz
+> FLIRT linear 1-step registration: standard -> highres
+> Transformation and mask application: highres volume
+> Fri Nov 24 09:39:36 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz
+>>
+>>
+>>
+>> Summary:
+> /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/atlasBREX.sh -b /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w.nii.gz -nb /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/nb_mouse_T2w.nii.gz -h /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4.nii.gz -f 0.5
+> Fri Nov 24 09:39:23 CST 2023 
+> (Temp.) rotating template to match MNI152 orientation  
+> (Temp.) rotating target volumes to match MNI152 orientation  
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz 
+> Atlas binary mask : 0:00:00:0.2957 
+> Provisional BET : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_ : 0:00:00:2.7113 
+> Fri Nov 24 09:39:36 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz 
+> atlasBREX runtime: highres : 0:00:00:6.7570 
+> Total runtime : 0:00:00:13.2327 
+> Fri Nov 24 09:39:36 CST 2023 
+
+============
+> atlasBREX [1.5]
+============
+
+>> Fri Nov 24 09:41:37 CST 2023
+>> PID: 218128
+>> Processing:
+> (Temp.) rotating template to match MNI152 orientation 
+> (Temp.) rotating target volumes to match MNI152 orientation 
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz
+> Upscale factor estimation: 8
+> (Temp.) voxel dimension scaling /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz to 1.6 1.6 1.6 using factor 8
+> Provisional (BET) segmentation (0.5): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz
+> FLIRT linear 1-step registration: standard -> highres
+> Transformation and mask application: highres volume
+> Fri Nov 24 09:41:51 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz
+>>
+>>
+>>
+>> Summary:
+> /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/atlasBREX.sh -b /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w.nii.gz -nb /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/nb_mouse_T2w.nii.gz -h /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4.nii.gz -f 0.5
+> Fri Nov 24 09:41:37 CST 2023 
+> (Temp.) rotating template to match MNI152 orientation  
+> (Temp.) rotating target volumes to match MNI152 orientation  
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz 
+> Atlas binary mask : 0:00:00:0.4462 
+> Provisional BET : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_ : 0:00:00:2.8144 
+> Fri Nov 24 09:41:51 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz 
+> atlasBREX runtime: highres : 0:00:00:6.8319 
+> Total runtime : 0:00:00:13.8734 
+> Fri Nov 24 09:41:51 CST 2023 
+
+============
+> atlasBREX [1.5]
+============
+
+>> Fri Nov 24 09:45:31 CST 2023
+>> PID: 220069
+>> Processing:
+> (Temp.) rotating template to match MNI152 orientation 
+> (Temp.) rotating target volumes to match MNI152 orientation 
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz
+> Upscale factor estimation: 8
+> (Temp.) voxel dimension scaling /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz to 1.6 1.6 1.6 using factor 8
+> Provisional (BET) segmentation (0.5): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz
+> FLIRT linear 1-step registration: standard -> highres
+> Transformation and mask application: highres volume
+> Fri Nov 24 09:45:44 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz
+>>
+>>
+>>
+>> Summary:
+> /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/atlasBREX.sh -b /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w.nii.gz -nb /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/nb_mouse_T2w.nii.gz -h /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4.nii.gz -f 0.5
+> Fri Nov 24 09:45:31 CST 2023 
+> (Temp.) rotating template to match MNI152 orientation  
+> (Temp.) rotating target volumes to match MNI152 orientation  
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz 
+> Atlas binary mask : 0:00:00:0.2925 
+> Provisional BET : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_ : 0:00:00:2.8280 
+> Fri Nov 24 09:45:44 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz 
+> atlasBREX runtime: highres : 0:00:00:6.8836 
+> Total runtime : 0:00:00:13.3820 
+> Fri Nov 24 09:45:44 CST 2023 
+
+============
+> atlasBREX [1.5]
+============
+
+>> Fri Nov 24 09:46:22 CST 2023
+>> PID: 221504
+>> Processing:
+> (Temp.) rotating template to match MNI152 orientation 
+> (Temp.) rotating target volumes to match MNI152 orientation 
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz
+> Upscale factor estimation: 8
+> (Temp.) voxel dimension scaling /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz to 1.6 1.6 1.6 using factor 8
+> Provisional (BET) segmentation (0.5): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz
+> FLIRT linear 1-step registration: standard -> highres
+> Transformation and mask application: highres volume
+> Fri Nov 24 09:46:36 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz
+>>
+>>
+>>
+>> Summary:
+> /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/atlasBREX.sh -b /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w.nii.gz -nb /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/nb_mouse_T2w.nii.gz -h /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4.nii.gz -f 0.5
+> Fri Nov 24 09:46:22 CST 2023 
+> (Temp.) rotating template to match MNI152 orientation  
+> (Temp.) rotating target volumes to match MNI152 orientation  
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz 
+> Atlas binary mask : 0:00:00:0.3419 
+> Provisional BET : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_ : 0:00:00:2.8514 
+> Fri Nov 24 09:46:36 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz 
+> atlasBREX runtime: highres : 0:00:00:6.8874 
+> Total runtime : 0:00:00:13.7015 
+> Fri Nov 24 09:46:36 CST 2023 
+
+============
+> atlasBREX [1.5]
+============
+
+>> Fri Nov 24 09:47:33 CST 2023
+>> PID: 222997
+>> Processing:
+> (Temp.) rotating template to match MNI152 orientation 
+> (Temp.) rotating target volumes to match MNI152 orientation 
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz
+> Upscale factor estimation: 8
+> (Temp.) voxel dimension scaling /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz to 1.6 1.6 1.6 using factor 8
+> Provisional (BET) segmentation (0.5): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz
+> FLIRT linear 1-step registration: standard -> highres
+> Transformation and mask application: highres volume
+> Fri Nov 24 09:47:47 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz
+>>
+>>
+>>
+>> Summary:
+> /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/atlasBREX.sh -b /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w.nii.gz -nb /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/nb_mouse_T2w.nii.gz -h /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4.nii.gz -f 0.5
+> Fri Nov 24 09:47:33 CST 2023 
+> (Temp.) rotating template to match MNI152 orientation  
+> (Temp.) rotating target volumes to match MNI152 orientation  
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz 
+> Atlas binary mask : 0:00:00:0.3220 
+> Provisional BET : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_ : 0:00:00:2.8624 
+> Fri Nov 24 09:47:47 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz 
+> atlasBREX runtime: highres : 0:00:00:7.0741 
+> Total runtime : 0:00:00:13.8295 
+> Fri Nov 24 09:47:47 CST 2023 
+
+============
+> atlasBREX [1.5]
+============
+
+>> Fri Nov 24 10:30:06 CST 2023
+>> PID: 233246
+>> Processing:
+> (Temp.) rotating template to match MNI152 orientation 
+> (Temp.) rotating target volumes to match MNI152 orientation 
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz
+> Upscale factor estimation: 8
+> (Temp.) voxel dimension scaling /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz to 1.6 1.6 1.6 using factor 8
+> Provisional (BET) segmentation (0.5): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz
+> FLIRT linear 1-step registration: standard -> highres
+> Transformation and mask application: highres volume
+> Fri Nov 24 10:30:23 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz
+>>
+>>
+>>
+>> Summary:
+> /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/atlasBREX.sh -b /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w.nii.gz -nb /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/nb_mouse_T2w.nii.gz -h /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4.nii.gz -f 0.5
+> Fri Nov 24 10:30:06 CST 2023 
+> (Temp.) rotating template to match MNI152 orientation  
+> (Temp.) rotating target volumes to match MNI152 orientation  
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz 
+> Atlas binary mask : 0:00:00:0.4726 
+> Provisional BET : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_ : 0:00:00:3.3152 
+> Fri Nov 24 10:30:23 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz 
+> atlasBREX runtime: highres : 0:00:00:6.8811 
+> Total runtime : 0:00:00:17.2872 
+> Fri Nov 24 10:30:23 CST 2023 
+
+============
+> atlasBREX [1.5]
+============
+
+>> Fri Nov 24 10:31:50 CST 2023
+>> PID: 234896
+>> Processing:
+> (Temp.) rotating template to match MNI152 orientation 
+> (Temp.) rotating target volumes to match MNI152 orientation 
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz
+> Upscale factor estimation: 8
+> (Temp.) voxel dimension scaling /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz to 1.6 1.6 1.6 using factor 8
+> Provisional (BET) segmentation (0.5): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz
+> FLIRT linear 1-step registration: standard -> highres
+> Transformation and mask application: highres volume
+> Fri Nov 24 10:32:05 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz
+>>
+>>
+>>
+>> Summary:
+> /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/atlasBREX.sh -b /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w.nii.gz -nb /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/nb_mouse_T2w.nii.gz -h /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4.nii.gz -f 0.5
+> Fri Nov 24 10:31:50 CST 2023 
+> (Temp.) rotating template to match MNI152 orientation  
+> (Temp.) rotating target volumes to match MNI152 orientation  
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz 
+> Atlas binary mask : 0:00:00:0.3010 
+> Provisional BET : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_ : 0:00:00:3.1522 
+> Fri Nov 24 10:32:05 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz 
+> atlasBREX runtime: highres : 0:00:00:7.0075 
+> Total runtime : 0:00:00:14.6277 
+> Fri Nov 24 10:32:05 CST 2023 
+
+============
+> atlasBREX [1.5]
+============
+
+>> Fri Nov 24 10:32:52 CST 2023
+>> PID: 236428
+>> Processing:
+> (Temp.) rotating template to match MNI152 orientation 
+> (Temp.) rotating target volumes to match MNI152 orientation 
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz
+> Upscale factor estimation: 8
+> (Temp.) voxel dimension scaling /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz to 1.6 1.6 1.6 using factor 8
+> Provisional (BET) segmentation (0.5): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz
+> FLIRT linear 1-step registration: standard -> highres
+> Transformation and mask application: highres volume
+> Fri Nov 24 10:33:07 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz
+>>
+>>
+>>
+>> Summary:
+> /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/atlasBREX.sh -b /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w.nii.gz -nb /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/nb_mouse_T2w.nii.gz -h /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4.nii.gz -f 0.5
+> Fri Nov 24 10:32:52 CST 2023 
+> (Temp.) rotating template to match MNI152 orientation  
+> (Temp.) rotating target volumes to match MNI152 orientation  
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz 
+> Atlas binary mask : 0:00:00:0.2959 
+> Provisional BET : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_ : 0:00:00:2.8793 
+> Fri Nov 24 10:33:07 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz 
+> atlasBREX runtime: highres : 0:00:00:7.0847 
+> Total runtime : 0:00:00:14.5874 
+> Fri Nov 24 10:33:07 CST 2023 
+
+============
+> atlasBREX [1.5]
+============
+
+>> Fri Nov 24 10:37:14 CST 2023
+>> PID: 239437
+>> Processing:
+> (Temp.) rotating template to match MNI152 orientation 
+> (Temp.) rotating target volumes to match MNI152 orientation 
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz
+> Upscale factor estimation: 8
+> (Temp.) voxel dimension scaling /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz to 1.6 1.6 1.6 using factor 8
+> Provisional (BET) segmentation (0.5): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz
+> FLIRT linear 1-step registration: standard -> highres
+> Transformation and mask application: highres volume
+> Fri Nov 24 10:37:34 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz
+>>
+>>
+>>
+>> Summary:
+> /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/atlasBREX.sh -b /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w.nii.gz -nb /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/nb_mouse_T2w.nii.gz -h /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4.nii.gz -f 0.5
+> Fri Nov 24 10:37:14 CST 2023 
+> (Temp.) rotating template to match MNI152 orientation  
+> (Temp.) rotating target volumes to match MNI152 orientation  
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz 
+> Atlas binary mask : 0:00:00:0.4101 
+> Provisional BET : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_ : 0:00:00:4.2447 
+> Fri Nov 24 10:37:34 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz 
+> atlasBREX runtime: highres : 0:00:00:8.2639 
+> Total runtime : 0:00:00:19.6483 
+> Fri Nov 24 10:37:34 CST 2023 
+
+============
+> atlasBREX [1.5]
+============
+
+>> Fri Nov 24 10:40:50 CST 2023
+>> PID: 241415
+>> Processing:
+> (Temp.) rotating template to match MNI152 orientation 
+> (Temp.) rotating target volumes to match MNI152 orientation 
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz
+> Upscale factor estimation: 8
+> (Temp.) voxel dimension scaling /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz to 1.6 1.6 1.6 using factor 8
+> Provisional (BET) segmentation (0.5): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_.nii.gz
+> FLIRT linear 1-step registration: standard -> highres
+> Transformation and mask application: highres volume
+> Fri Nov 24 10:41:08 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz
+>>
+>>
+>>
+>> Summary:
+> /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/atlasBREX.sh -b /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w.nii.gz -nb /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/nb_mouse_T2w.nii.gz -h /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4.nii.gz -f 0.5
+> Fri Nov 24 10:40:50 CST 2023 
+> (Temp.) rotating template to match MNI152 orientation  
+> (Temp.) rotating target volumes to match MNI152 orientation  
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz 
+> Atlas binary mask : 0:00:00:0.3873 
+> Provisional BET : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_ : 0:00:00:3.3365 
+> Fri Nov 24 10:41:08 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_perfused_N4_brain.nii.gz 
+> atlasBREX runtime: highres : 0:00:00:9.1538 
+> Total runtime : 0:00:00:18.3411 
+> Fri Nov 24 10:41:08 CST 2023 
+
+============
+> atlasBREX [1.5]
+============
+
+>> Fri Nov 24 10:42:04 CST 2023
+>> PID: 242998
+>> Processing:
+> (Temp.) rotating template to match MNI152 orientation 
+> (Temp.) rotating target volumes to match MNI152 orientation 
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz
+> Upscale factor estimation: 8
+> (Temp.) voxel dimension scaling /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_fixed_N4_.nii.gz to 1.6 1.6 1.6 using factor 8
+> Provisional (BET) segmentation (0.5): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_fixed_N4_.nii.gz
+> FLIRT linear 1-step registration: standard -> highres
+> Transformation and mask application: highres volume
+> Fri Nov 24 10:42:19 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_fixed_N4_brain.nii.gz
+>>
+>>
+>>
+>> Summary:
+> /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/atlasBREX.sh -b /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w.nii.gz -nb /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/nb_mouse_T2w.nii.gz -h /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_fixed_N4.nii.gz -f 0.5
+> Fri Nov 24 10:42:04 CST 2023 
+> (Temp.) rotating template to match MNI152 orientation  
+> (Temp.) rotating target volumes to match MNI152 orientation  
+> Atlas mask created using fslmaths (b,0.5,0,0): /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/b_mouse_T2w_std_mask.nii.gz 
+> Atlas binary mask : 0:00:00:0.6714 
+> Provisional BET : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_fixed_N4_ : 0:00:00:3.2860 
+> Fri Nov 24 10:42:19 CST 2023 / Output : /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code/atlasBREX/templates/mouse_T2w/T2_fixed_N4_brain.nii.gz 
+> atlasBREX runtime: highres : 0:00:00:8.0672 
+> Total runtime : 0:00:00:15.9517 
+> Fri Nov 24 10:42:20 CST 2023 

@@ -3,11 +3,15 @@
 source mbv-pipe.cfg
 export PATH=${PATH}:${PWD}
 
-sub_dnames=($(ls -d ${data_dir}/sub*))
+sub_dnames=($(ls -d ${data_dir}/sub-*))
+sub_dnames_base=()
+for dir in "${sub_dnames[@]}"; do
+    sub_dnames_base+=("$(basename "$dir")")
+done
 
-# sub_dnames=('sub-003')  # just for test
+# sub_dnames_base=('sub-003')  # just for test
 
-for sub_i in ${sub_dnames[@]}; do
+for sub_i in ${sub_dnames_base[@]}; do
     sub_i_dir=${data_dir}/${sub_i}
     sub_i_T2_reoriented_dir=${sub_i_dir}/T2_reoriented
     sub_i_T2_brain_dir=${sub_i_dir}/T2_brain

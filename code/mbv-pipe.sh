@@ -34,16 +34,17 @@ for sub_i in ${sub_dnames[@]}; do
 
     # --- S5_2. reg2ara ---
     S5_2_reg2ara.sh ${sub_i_T2_reg_2_dir}
-COMMENT
 
     # --- S5_3. anntreg2sbj ---
     S5_3_anntreg2sbj.sh ${sub_i_T2_reg_2_dir}
 
-
-:<<COMMENT
     # --- S6_1. vbm analysis ---
     S6_1_vbm_analysis.sh ${sub_i_T2_reg_1_dir} ${sub_i_T2_vbm_dir}
+COMMENT
 
+    # --- S6_2. 
+
+:<<COMMENT
     # --- S7_1. save vbm results
     S7_1_save_vbm_results.sh ${sub_i_T2_vbm_dir} ${sub_i_T2_results_dir}
 COMMENT

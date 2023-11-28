@@ -36,7 +36,7 @@ for sub_i in ${sub_dnames[@]}; do
     S5_2_reg2ara.sh ${sub_i_T2_reg_2_dir}
 COMMENT
 
-    # --- S5_2. anntreg2sbj ---
+    # --- S5_3. anntreg2sbj ---
     S5_3_anntreg2sbj.sh ${sub_i_T2_reg_2_dir}
 
 

@@ -5,7 +5,7 @@
 #SBATCH -e mbv-pipe.err
 #SBATCH -p cpu
 #SBATCH -N 1
-#SBATCH --cpus-per-task=30
+#SBATCH --cpus-per-task=16
 #SBATCH --nodes=1
 
 start_time=$(date +"%Y-%m-%d %H:%M:%S")
@@ -18,8 +18,8 @@ cd /n02dat01/users/wtjiang/Workspace/MBV-Pipe/code
 end_time=$(date +"%Y-%m-%d %H:%M:%S")
 echo "Job ended at $end_time"
 
-start_minutes=$(date -d "$start_time" +%s)
-end_minutes=$(date -d "$end_time" +%s)
+start_seconds=$(date -d "$start_time" +%s)
+end_seconds=$(date -d "$end_time" +%s)
 duration_seconds=$((end_seconds - start_seconds))
 
 duration_hours=$((duration_seconds / 3600))

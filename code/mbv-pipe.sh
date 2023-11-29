@@ -13,6 +13,7 @@ done
 
 for sub_i in ${sub_dnames_base[@]}; do
     sub_i_dir=${data_dir}/${sub_i}
+    echo ${sub_i_dir}
     sub_i_T2_reoriented_dir=${sub_i_dir}/T2_reoriented
     sub_i_T2_brain_dir=${sub_i_dir}/T2_brain
     sub_i_T2_reg_dir=${sub_i_dir}/T2_reg

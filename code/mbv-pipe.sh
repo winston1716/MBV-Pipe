@@ -22,6 +22,7 @@ for sub_i in ${sub_dnames_base[@]}; do
     sub_i_T2_vbm_dir=${sub_i_dir}/'T2_vbm'
     sub_i_T2_results_dir=${sub_i_dir}/'T2_results'
 
+:<<COMMENT
     # --- S1. reorientation ---
     S1_reorientation.sh ${sub_i_dir}
 
@@ -43,11 +44,14 @@ for sub_i in ${sub_dnames_base[@]}; do
     # --- S5_3. anntreg2sbj ---
     S5_3_anntreg2sbj.sh ${sub_i_T2_reg_2_dir}
 
+COMMENT
     # --- S6_1. vbm analysis ---
     S6_1_vbm_analysis.sh ${sub_i_T2_reg_1_dir} ${sub_i_T2_vbm_dir}
 
+:<<COMMENT
     # --- S6_2. roi stats ---
     S6_2_roi_stats.sh ${sub_i_T2_reg_2_dir} ${sub_i_T2_results_dir}
+COMMENT
 
     # --- S7_1. save vbm results
     S7_1_save_vbm_results.sh ${sub_i_T2_vbm_dir} ${sub_i_T2_results_dir}

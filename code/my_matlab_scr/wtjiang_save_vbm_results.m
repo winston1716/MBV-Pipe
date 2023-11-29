@@ -5,17 +5,17 @@ function wtjiang_save_vbm_results(T2_vbm_dir, saved_dir)
     invivo_results_fname = ['T2_', t_states{1}, '_volume_stats.mat'];
     invivo_results_fpath = fullfile(T2_vbm_dir, invivo_results_fname);
     invivo_results_mat = load(invivo_results_fpath);
-    invivo_results_data = invivo_results_mat.volume_stats_resluts;
+    invivo_results_data = invivo_results_mat.volume_stats_results;
     
     perfused_results_fname = ['T2_', t_states{2}, '_volume_stats.mat'];
     perfused_results_fpath = fullfile(T2_vbm_dir, perfused_results_fname);
     perfused_results_mat = load(perfused_results_fpath);
-    perfused_results_data = perfused_results_mat.volume_stats_resluts;
+    perfused_results_data = perfused_results_mat.volume_stats_results;
     
     fixed_results_fname = ['T2_', t_states{3}, '_volume_stats.mat'];
     fixed_results_fpath = fullfile(T2_vbm_dir, fixed_results_fname);
     fixed_results_mat = load(fixed_results_fpath);
-    fixed_results_data = fixed_results_mat.volume_stats_resluts;
+    fixed_results_data = fixed_results_mat.volume_stats_results;
     
     GM_data = [invivo_results_data.GM, perfused_results_data.GM, fixed_results_data.GM];
     WM_data = [invivo_results_data.WM, perfused_results_data.WM, fixed_results_data.WM];

@@ -42,11 +42,11 @@ function run_vbm_analysis(data_fpath, TPM_fpath, scale_factor)
     p=strfind(bname,'_reg2tpm');
     results_fname = [bname(1:p-1), '_volume_stats.mat'];
     results_fpath = fullfile(data_dir, results_fname);
-    volume_stats_resluts.GM = corrected_mwc1_data;
-    volume_stats_resluts.WM = corrected_mwc2_data;
-    volume_stats_resluts.CSF = corrected_mwc3_data;
-    volume_stats_resluts.TBV = total_brain_volume_data;
-    volume_stats_resluts.TIV = total_intracranial_volume_data;
+    volume_stats_results.GM = corrected_mwc1_data;
+    volume_stats_results.WM = corrected_mwc2_data;
+    volume_stats_results.CSF = corrected_mwc3_data;
+    volume_stats_results.TBV = total_brain_volume_data;
+    volume_stats_results.TIV = total_intracranial_volume_data;
     
-    save(results_fpath,'volume_stats_resluts');
+    save(results_fpath,'volume_stats_results');
 end

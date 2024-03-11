@@ -1,3 +1,6 @@
 data/sub*
 backup/
 code/stats_analysis
+test/
+dwi_analysis/data
+code/dartel

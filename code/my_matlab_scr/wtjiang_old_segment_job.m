@@ -19,7 +19,7 @@ function matlabbatch = wtjiang_old_segment_job(data_fpath, TPM_dir)
     matlabbatch{1}.spm.tools.oldseg.opts.warpreg = 1;
     matlabbatch{1}.spm.tools.oldseg.opts.warpco = 25;
     matlabbatch{1}.spm.tools.oldseg.opts.biasreg = 0.0001;
-    matlabbatch{1}.spm.tools.oldseg.opts.biasfwhm = 30;
+    matlabbatch{1}.spm.tools.oldseg.opts.biasfwhm = 50; % default 30
     matlabbatch{1}.spm.tools.oldseg.opts.samp = 3;
     matlabbatch{1}.spm.tools.oldseg.opts.msk = {''};
     

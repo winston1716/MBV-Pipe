@@ -1,0 +1,406 @@
+Job started at 2023-12-09 09:54:40
+mri_convert --in_orientation RAI /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-002_ses-1_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-002_ses-1_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-002_ses-1_FA.nii.gz...
+TR=3200.00, TE=0.00, TI=0.00, flip angle=0.00
+Setting input orientation to RAI
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-002_ses-1_FA.nii.gz...
+mri_convert --out_orientation RAS /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-002_ses-1_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-002_ses-1_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-002_ses-1_FA.nii.gz...
+TR=3200.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+Setting output orientation to RAS
+Reslicing using trilinear interpolation 
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-002_ses-1_FA.nii.gz...
+mri_convert --in_orientation RAI /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-002_ses-2_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-002_ses-2_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-002_ses-2_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+Setting input orientation to RAI
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-002_ses-2_FA.nii.gz...
+mri_convert --out_orientation RAS /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-002_ses-2_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-002_ses-2_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-002_ses-2_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+Setting output orientation to RAS
+Reslicing using trilinear interpolation 
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-002_ses-2_FA.nii.gz...
+mri_convert --in_orientation RAI /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-002_ses-3_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-002_ses-3_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-002_ses-3_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+Setting input orientation to RAI
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-002_ses-3_FA.nii.gz...
+mri_convert --out_orientation RAS /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-002_ses-3_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-002_ses-3_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-002_ses-3_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+Setting output orientation to RAS
+Reslicing using trilinear interpolation 
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-002_ses-3_FA.nii.gz...
+mri_convert --in_orientation RAI /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-003_ses-1_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-003_ses-1_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-003_ses-1_FA.nii.gz...
+TR=3200.00, TE=0.00, TI=0.00, flip angle=0.00
+Setting input orientation to RAI
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-003_ses-1_FA.nii.gz...
+mri_convert --out_orientation RAS /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-003_ses-1_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-003_ses-1_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-003_ses-1_FA.nii.gz...
+TR=3200.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+Setting output orientation to RAS
+Reslicing using trilinear interpolation 
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-003_ses-1_FA.nii.gz...
+mri_convert --in_orientation RAI /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-003_ses-2_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-003_ses-2_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-003_ses-2_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+Setting input orientation to RAI
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-003_ses-2_FA.nii.gz...
+mri_convert --out_orientation RAS /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-003_ses-2_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-003_ses-2_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-003_ses-2_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+Setting output orientation to RAS
+Reslicing using trilinear interpolation 
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-003_ses-2_FA.nii.gz...
+mri_convert --in_orientation RAI /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-003_ses-3_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-003_ses-3_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-003_ses-3_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+Setting input orientation to RAI
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-003_ses-3_FA.nii.gz...
+mri_convert --out_orientation RAS /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-003_ses-3_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-003_ses-3_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-003_ses-3_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+Setting output orientation to RAS
+Reslicing using trilinear interpolation 
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-003_ses-3_FA.nii.gz...
+mri_convert --in_orientation RAI /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-004_ses-1_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-004_ses-1_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-004_ses-1_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+Setting input orientation to RAI
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-004_ses-1_FA.nii.gz...
+mri_convert --out_orientation RAS /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-004_ses-1_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-004_ses-1_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-004_ses-1_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+Setting output orientation to RAS
+Reslicing using trilinear interpolation 
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-004_ses-1_FA.nii.gz...
+mri_convert --in_orientation RAI /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-004_ses-2_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-004_ses-2_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-004_ses-2_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+Setting input orientation to RAI
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-004_ses-2_FA.nii.gz...
+mri_convert --out_orientation RAS /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-004_ses-2_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-004_ses-2_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-004_ses-2_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+Setting output orientation to RAS
+Reslicing using trilinear interpolation 
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-004_ses-2_FA.nii.gz...
+mri_convert --in_orientation RAI /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-004_ses-3_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-004_ses-3_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-004_ses-3_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+Setting input orientation to RAI
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-004_ses-3_FA.nii.gz...
+mri_convert --out_orientation RAS /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-004_ses-3_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-004_ses-3_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-004_ses-3_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+Setting output orientation to RAS
+Reslicing using trilinear interpolation 
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-004_ses-3_FA.nii.gz...
+mri_convert --in_orientation RAI /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-005_ses-1_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-005_ses-1_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-005_ses-1_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+Setting input orientation to RAI
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-005_ses-1_FA.nii.gz...
+mri_convert --out_orientation RAS /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-005_ses-1_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-005_ses-1_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-005_ses-1_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+Setting output orientation to RAS
+Reslicing using trilinear interpolation 
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-005_ses-1_FA.nii.gz...
+mri_convert --in_orientation RAI /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-005_ses-2_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-005_ses-2_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-005_ses-2_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+Setting input orientation to RAI
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-005_ses-2_FA.nii.gz...
+mri_convert --out_orientation RAS /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-005_ses-2_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-005_ses-2_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-005_ses-2_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+Setting output orientation to RAS
+Reslicing using trilinear interpolation 
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-005_ses-2_FA.nii.gz...
+mri_convert --in_orientation RAI /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-005_ses-3_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-005_ses-3_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-005_ses-3_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+Setting input orientation to RAI
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-005_ses-3_FA.nii.gz...
+mri_convert --out_orientation RAS /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-005_ses-3_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-005_ses-3_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-005_ses-3_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+Setting output orientation to RAS
+Reslicing using trilinear interpolation 
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-005_ses-3_FA.nii.gz...
+mri_convert --in_orientation RAI /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-006_ses-1_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-006_ses-1_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-006_ses-1_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+Setting input orientation to RAI
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-006_ses-1_FA.nii.gz...
+mri_convert --out_orientation RAS /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-006_ses-1_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-006_ses-1_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-006_ses-1_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+Setting output orientation to RAS
+Reslicing using trilinear interpolation 
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-006_ses-1_FA.nii.gz...
+mri_convert --in_orientation RAI /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-006_ses-2_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-006_ses-2_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-006_ses-2_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+Setting input orientation to RAI
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-006_ses-2_FA.nii.gz...
+mri_convert --out_orientation RAS /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-006_ses-2_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-006_ses-2_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-006_ses-2_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+Setting output orientation to RAS
+Reslicing using trilinear interpolation 
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-006_ses-2_FA.nii.gz...
+mri_convert --in_orientation RAI /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-006_ses-3_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-006_ses-3_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-006_ses-3_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+Setting input orientation to RAI
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-006_ses-3_FA.nii.gz...
+mri_convert --out_orientation RAS /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-006_ses-3_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-006_ses-3_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-006_ses-3_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+Setting output orientation to RAS
+Reslicing using trilinear interpolation 
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-006_ses-3_FA.nii.gz...
+mri_convert --in_orientation RAI /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-007_ses-1_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-007_ses-1_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-007_ses-1_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+Setting input orientation to RAI
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-007_ses-1_FA.nii.gz...
+mri_convert --out_orientation RAS /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-007_ses-1_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-007_ses-1_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-007_ses-1_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+Setting output orientation to RAS
+Reslicing using trilinear interpolation 
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-007_ses-1_FA.nii.gz...
+mri_convert --in_orientation RAI /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-007_ses-2_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-007_ses-2_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-007_ses-2_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+Setting input orientation to RAI
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-007_ses-2_FA.nii.gz...
+mri_convert --out_orientation RAS /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-007_ses-2_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-007_ses-2_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-007_ses-2_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+Setting output orientation to RAS
+Reslicing using trilinear interpolation 
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-007_ses-2_FA.nii.gz...
+mri_convert --in_orientation RAI /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-007_ses-3_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-007_ses-3_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-007_ses-3_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+Setting input orientation to RAI
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-007_ses-3_FA.nii.gz...
+mri_convert --out_orientation RAS /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-007_ses-3_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-007_ses-3_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-007_ses-3_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+Setting output orientation to RAS
+Reslicing using trilinear interpolation 
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-007_ses-3_FA.nii.gz...
+mri_convert --in_orientation RAI /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-008_ses-1_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-008_ses-1_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-008_ses-1_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+Setting input orientation to RAI
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-008_ses-1_FA.nii.gz...
+mri_convert --out_orientation RAS /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-008_ses-1_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-008_ses-1_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-008_ses-1_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+Setting output orientation to RAS
+Reslicing using trilinear interpolation 
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-008_ses-1_FA.nii.gz...
+mri_convert --in_orientation RAI /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-008_ses-2_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-008_ses-2_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-008_ses-2_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+Setting input orientation to RAI
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-008_ses-2_FA.nii.gz...
+mri_convert --out_orientation RAS /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-008_ses-2_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-008_ses-2_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-008_ses-2_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+Setting output orientation to RAS
+Reslicing using trilinear interpolation 
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-008_ses-2_FA.nii.gz...
+mri_convert --in_orientation RAI /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-008_ses-3_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-008_ses-3_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss/sub-008_ses-3_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+Setting input orientation to RAI
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-008_ses-3_FA.nii.gz...
+mri_convert --out_orientation RAS /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-008_ses-3_FA.nii.gz /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-008_ses-3_FA.nii.gz 
+reading from /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/tmp_correct_ori_sub-008_ses-3_FA.nii.gz...
+TR=3500.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (1, 0, 0)
+j_ras = (0, 1, 0)
+k_ras = (0, 0, -1)
+Setting output orientation to RAS
+Reslicing using trilinear interpolation 
+writing to /n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/sub-008_ses-3_FA.nii.gz...
+processing sub-002_ses-1_FA
+processing sub-002_ses-2_FA
+processing sub-002_ses-3_FA
+processing sub-003_ses-1_FA
+processing sub-003_ses-2_FA
+processing sub-003_ses-3_FA
+processing sub-004_ses-1_FA
+processing sub-004_ses-2_FA
+processing sub-004_ses-3_FA
+processing sub-005_ses-1_FA
+processing sub-005_ses-2_FA
+processing sub-005_ses-3_FA
+processing sub-006_ses-1_FA
+processing sub-006_ses-2_FA
+processing sub-006_ses-3_FA
+processing sub-007_ses-1_FA
+processing sub-007_ses-2_FA
+processing sub-007_ses-3_FA
+processing sub-008_ses-1_FA
+processing sub-008_ses-2_FA
+processing sub-008_ses-3_FA
+Now running "slicesdir" to generate report of all input images
+Finished. To view, point your web browser at
+file:/n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/tbss_reoriented/FA/slicesdir/index.html
+sub-002_ses-1_FA_FA_to_target
+sub-002_ses-2_FA_FA_to_target
+sub-002_ses-3_FA_FA_to_target
+sub-003_ses-1_FA_FA_to_target
+sub-003_ses-2_FA_FA_to_target
+sub-003_ses-3_FA_FA_to_target
+sub-004_ses-1_FA_FA_to_target
+sub-004_ses-2_FA_FA_to_target
+sub-004_ses-3_FA_FA_to_target
+sub-005_ses-1_FA_FA_to_target
+sub-005_ses-2_FA_FA_to_target
+sub-005_ses-3_FA_FA_to_target
+sub-006_ses-1_FA_FA_to_target
+sub-006_ses-2_FA_FA_to_target
+sub-006_ses-3_FA_FA_to_target
+sub-007_ses-1_FA_FA_to_target
+sub-007_ses-2_FA_FA_to_target
+sub-007_ses-3_FA_FA_to_target
+sub-008_ses-1_FA_FA_to_target
+sub-008_ses-2_FA_FA_to_target
+sub-008_ses-3_FA_FA_to_target
+52121
+Job ended at 2023-12-09 11:16:02
+Job duration: 1 hours, 21 minutes, and 22 seconds

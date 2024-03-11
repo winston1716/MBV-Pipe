@@ -3,9 +3,9 @@
 #SBATCH -J mbv-pipe
 #SBATCH -o mbv-pipe.out
 #SBATCH -e mbv-pipe.err
-#SBATCH -p cpu
+#SBATCH -p gpu
 #SBATCH -N 1
-#SBATCH --cpus-per-task=16
+#SBATCH --cpus-per-task=24
 #SBATCH --nodes=1
 
 start_time=$(date +"%Y-%m-%d %H:%M:%S")

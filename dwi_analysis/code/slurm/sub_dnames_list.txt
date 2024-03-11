@@ -1,0 +1,8 @@
+/n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/sub-001
+/n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/sub-002
+/n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/sub-003
+/n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/sub-004
+/n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/sub-005
+/n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/sub-006
+/n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/sub-007
+/n02dat01/users/wtjiang/Workspace/MBV-Pipe/dwi_analysis/data/sub-008

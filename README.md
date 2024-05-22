@@ -1,6 +1,6 @@
 # MBV-Pipe
 
-Mouse Brain Volume Statistics-Pipeline
+Mouse Brain Volumetric Statistics-Pipeline
 
 ## Requirements
 - CentOS >= 7.0

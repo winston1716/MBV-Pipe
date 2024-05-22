@@ -9,12 +9,20 @@ Mouse Brain Volume Statistics-Pipeline
 - MATLAB >= 2022a
 - SPM12
 
-## VBM Analysis
+## DARTEL-VBM Analysis
+Following is the DARTEL-VBM analysis workflow:
+
+<!-- ![DARTEL-VBM workflow](./figs/DARTEL-VBM_workflow.png) -->
+<img width = '300' src ="./figs/DARTEL-VBM_workflow.png"/>
+
 
 ## TBSS Analysis
+<img width = '300' src ="./figs/TBSS_workflow.png"/>
 
 ## GUI panel
+We also provided a GUI for mouse brain morphological analysis based on MATLAB. Users can set the necessary parameters to run MBV-Pipe. 
 
+<img width = '300' src ="./figs/GUI.png"/>
 
 ## Related Links
 - FSL: http://fsl.fmrib.ox.ac.uk
@@ -27,4 +35,4 @@ Chou, Nigel, et al. "Robust automatic rodent brain extraction using 3-D pulse-co
 
 Lohmeier, Johannes, et al. "atlasBREX: Automated template-derived brain extraction in animal MRI." Scientific reports 9.1 (2019): 12219.
 
-SPM: store.elsevier.com/product.jsp?isbn=9780123725608
+Penny, William D., et al., eds. Statistical parametric mapping: the analysis of functional brain images. Elsevier, 2011.

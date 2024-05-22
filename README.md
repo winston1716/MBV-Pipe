@@ -10,9 +10,9 @@ Mouse Brain Volumetric Statistics-Pipeline
 - SPM12
 
 ## GUI panel
-We provide a GUI for mouse brain morphological analysis based on MATLAB. Users can set the necessary parameters to run MBV-Pipe. 
+MBV-Pipe provides a user-friendly graphical user interface (GUI) that presents users with options for essential steps and basic parameter settings.
 
-<img width = '500' src ="./figs/GUI.png"/>
+<img width = '400' src ="./figs/GUI.png"/>
 
 ## DARTEL-VBM Analysis
 Following is the DARTEL-VBM analysis workflow:
